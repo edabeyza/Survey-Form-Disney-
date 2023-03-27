@@ -23,7 +23,7 @@ Project aims to create survey form within html and css.
 
 Functionally create a Survey Form as in the image above
 	
-## Project-Gif of the Outcome
+## The Outcome
  
 ![Animation](https://user-images.githubusercontent.com/72518776/228074396-ae4e092e-9f3c-47b7-aef1-904731d246de.gif)
 
