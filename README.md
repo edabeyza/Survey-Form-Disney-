@@ -19,18 +19,13 @@ Project aims to create survey form within html and css.
         |----result.html 
 ```
 
-## Expected Outcome
-
-![Project_001_](https://user-images.githubusercontent.com/72518776/227384060-ebde2b1f-a24e-41a4-b5ea-f9b685e1309a.png)
-
-
 ## Objective
 
 Functionally create a Survey Form as in the image above
 	
 ## Project-Gif of the Outcome
  
-![Animation](https://user-images.githubusercontent.com/72518776/227383539-1b892ac4-87fc-4c72-88b5-279dba001c7b.gif)
+![Animation](https://user-images.githubusercontent.com/72518776/228074396-ae4e092e-9f3c-47b7-aef1-904731d246de.gif)
 
 ## Technologies and Tools
 
