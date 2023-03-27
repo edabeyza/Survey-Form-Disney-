@@ -1,4 +1,4 @@
-# Project-001: Survey Form Disney Plus
+# Project-002: Survey Form Disney Plus
 
 ## Description
 Project aims to create survey form within html and css.
@@ -10,7 +10,7 @@ Project aims to create survey form within html and css.
 ## Project Skeleton 
 
 ```
-001-survey-form (folder)
+002-survey-form (folder)
 |
 |----readme.md                   
 |----solution
